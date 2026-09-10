@@ -1,0 +1,1 @@
+# Intelligent Wikipedia Question Answering Assistant\n\nStreamlit QA project using the Wikipedia-derived SQuAD v1.1 dataset.\n\nRun:\n```bash\npip install -r requirements.txt\nstreamlit run app.py\n```\n\nThe included dataset is `data/dev-v1.1.json`.\n
